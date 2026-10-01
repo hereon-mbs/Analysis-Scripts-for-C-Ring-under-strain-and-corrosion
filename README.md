@@ -73,6 +73,21 @@ Troubleshooting:
 •	Loading of segmented images not working: check if the filepath is determined correctly
 •	Degradation parameter unrealistic: have the pixel values of degradation, residual material, surrounding correctly been assigned?
 
+**Requirements**
+ 
+- MATLAB R2024a or newer
+- Image Processing Toolbox
+ 
+External dependencies
+ 
+- contact_area.m
+https://github.com/moosmann/matlab
+ 
+Citation
+ 
+If you use this software, please cite the corresponding Zenodo release.
+
+
 References
 [1] 
 [2] Tal Hendel (2026). Ellipse Fit (https://de.mathworks.com/matlabcentral/fileexchange/22423-ellipse-fit), MATLAB Central File Exchange. Abgerufen 8. September 2026. 
