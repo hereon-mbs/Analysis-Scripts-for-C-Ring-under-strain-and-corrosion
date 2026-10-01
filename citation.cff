@@ -1,0 +1,40 @@
+cff-version: 1.2.0
+title: "Analysis-Scripts-for-C-Ring-under-strain-and-corrosion"
+message: "If you use this software, please cite it using the metadata provided in this file."
+type: software
+ 
+authors:
+- family-names: "Hindenlang"
+given-names: "Birte"
+ 
+contact:
+- family-names: "Wieland"
+given-names: "D.C.F."
+affiliation: "Helmholtz-Zentrum Hereon"
+ 
+repository-code: "https://github.com/hereon-mbs/Analysis-Scripts-for-C-Ring-under-strain-and-corrosion"
+ 
+doi: "10.5281/zenodo.22793691"
+ 
+abstract: >
+Scripts for the analysis of deformed and degrading C-ring samples
+using scanning 2D XRD and micro-computed tomography (µCT).
+Analyzed are strain distributions over time or different deformation
+conditions and degradation parameters depending on tensile and
+compressive strain regions.
+ 
+keywords:
+- MATLAB
+- XRD
+- micro-CT
+- corrosion
+- degradation
+- magnesium
+- strain mapping
+- C-ring
+ 
+license: "MIT"
+ 
+version: "1.0"
+ 
+date-released: "2026-09-14"
